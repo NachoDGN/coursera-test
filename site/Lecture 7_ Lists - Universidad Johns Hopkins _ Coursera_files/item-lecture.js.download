@@ -1,0 +1,1 @@
+define("nls/es/item-lecture",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Downloads:"Descargas","Have a question? Discuss this lecture in the week forums.":"¿Tienes una pregunta? Analiza esta lección en los foros semanales."}});
