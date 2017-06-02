@@ -1,1 +1,0 @@
-define("nls/es/alice",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Alice:"Alice","Help Center":"Centro de Ayuda","Lightbulb tip":"Sugerencia de la lamparita",No:"No","Not now":"Ahora no","Was this helpful?":"¿Te resultó útil?",Yes:"Sí"}});
