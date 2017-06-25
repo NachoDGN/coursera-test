@@ -1,11 +1,11 @@
-p.container {
+p {
 	position: relative;
 	background-color: gray;
 	font-family: Times;
 	color: black;
 	padding-top: 50px;
 	border: 1px solid black;
-	margin: 0px auto 0px;
+	margin: 0px 30px 0px;
 }
 #header-nav {
 	background-color: black;
